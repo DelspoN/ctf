@@ -16,6 +16,8 @@
 - [x] \[2017_SCTF] \[PWN] Labyrinth
 - [x] \[2017_SHA] \[PWN] Title Case
 - [x] \[2017_TWCTF] \[PWN] just do it
+- [x] \[2015_MMA] \[PWN] RPS
+- [ ] \[2016_WITHCON] \[PWN] malloc
 
 ## Web
 - [x] \[2017_0CTF] \[WEB] simplesqlin
@@ -49,6 +51,8 @@
 - [x] \[2017_BugsBunny] \[Crypto] crypto-15
 - [x] \[2017_BugsBunny] \[Crypto] crypto-25
 - [x] \[2017_Inc0gnito] \[Crypto] DES_OFB
+- [x] \[2017_HACKCON] \[Crypto] RSA1
+- [x] \[2017_TWCTF] \[Crypto] My Simple Cipher
 
 ## Forensic
 - [x] \[2017_BugsBunny] \[Forensic] For25
@@ -58,4 +62,4 @@
 
 ## MISC
 - [x] \[2017_Inc0gnito] \[MISC] unused
-- [ ] \[2017_Inc0gnito] \[MISC] nagi2
+- [x] \[2017_Inc0gnito] \[MISC] nagi2
