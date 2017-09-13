@@ -1,4 +1,4 @@
-## Pwn
+## Pwnable
 - [x] \[2017_SCTF] \[PWN] Msg
 - [x] \[2017_CodegatePrequal] \[PWN] Babypwn
 - [x] \[2017_0CTF] \[Pwnable] Babyheap
@@ -18,6 +18,10 @@
 - [x] \[2017_TWCTF] \[PWN] just do it
 - [x] \[2015_MMA] \[PWN] RPS
 - [ ] \[2016_WITHCON] \[PWN] malloc
+- [ ] \[2017_TWCTF] \[PWN] Simple Note
+- [x] \[2016_ASIS] \[PWN] Mary Morton
+- [ ] \[2016_ASIS] \[PWN] Greg Lestrade
+- [ ] \[2016_ASIS] \[PWN] Mrs. Hudson
 
 ## Web
 - [x] \[2017_0CTF] \[WEB] simplesqlin
@@ -38,6 +42,7 @@
 - [x] \[2017_Inc0gnito] \[WEB] monika
 - [x] \[2017_Inc0gnito] \[WEB] sophie
 - [x] \[2017_TWCTF] \[Web] Freshen Uploader
+- [ ] \[2017_ASIS] \[Web] Golem is stupid
 
 ## Reversing
 - [x] \[2015_Defcamp] \[REV] r100
