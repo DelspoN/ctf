@@ -68,6 +68,7 @@
 - [x] \[2017_CSAW] \[Web] orange v1
 - [x] \[2017_TenDollar] \[Web] Like Real Hacker
 - [x] \[2017_DefCamp] \[Web] Are you brave enough?
+- [x] [2017_DefCamp] \[Web] A talkative server
 
 ## Reversing
 - [x] \[2015_Defcamp] \[REV] r100
