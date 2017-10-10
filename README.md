@@ -8,13 +8,13 @@
 - [2017_ASIS] 268th
 
 
-
-
 - [2017_TenDollar] 8th
 
 ## CTF Activities @TenDollar
 
 - [2017_DefCamp] 119th
+- [2017_Kaspersky] 61th
+- [2017_Can-CWIC] 17th
 
 ## Pwnable
 
@@ -44,6 +44,8 @@
 - [x] \[2017_TenDollar] \[PWN] AEG of Empires
 - [x] \[2017_TenDollar] \[PWN] Login
 - [x] \[2017_TenDollar] \[PWN] Dirty Room
+- [x] \[2017_Can-CWIC] \[PWN] meta1
+- [x] \[2017_Can-CWIC] \[PWN] meta2
 
 ## Web
 - [x] \[2017_0CTF] \[Web] simplesqlin
@@ -79,6 +81,7 @@
 - [x] \[2017_Inc0gnito] \[Reversing] leon
 - [x] \[2017_TWCTF] \[Reversing] rev_rev_rev
 - [x] \[2017_DefCamp] \[Reversing] Working Junks
+- [x] \[2017_Kaspersky] \[Reversing] Backdoor Pi
 
 ## Crypto
 - [x] \[2017_BugsBunny] \[Crypto] crypto-15
