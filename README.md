@@ -46,6 +46,7 @@
 - [x] \[2017_TenDollar] \[PWN] Dirty Room
 - [x] \[2017_Can-CWIC] \[PWN] meta1
 - [x] \[2017_Can-CWIC] \[PWN] meta2
+- [x] \[2017_Can-CWIC] \[PWN] Red is Dead
 
 ## Web
 - [x] \[2017_0CTF] \[Web] simplesqlin
@@ -95,6 +96,10 @@
 - [x] \[2017_BugsBunny] \[Forensic] For30
 - [x] \[2017_BugsBunny] \[Forensic] For50
 - [x] \[2017_BugsBunny] \[Forensic] For80
+
+## Programming
+
+- [x] \[2017_Can-CWIC] \[Prog] Tri it 0
 
 ## MISC
 - [x] \[2017_Inc0gnito] \[MISC] unused
