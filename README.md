@@ -90,6 +90,7 @@
 - [x] \[2017_Inc0gnito] \[Crypto] DES_OFB
 - [x] \[2017_HACKCON] \[Crypto] RSA1
 - [x] \[2017_TWCTF] \[Crypto] My Simple Cipher
+- [x] \[2017_Kaspersky] \[Crypto] Decrypt the message
 
 ## Forensic
 - [x] \[2017_BugsBunny] \[Forensic] For25
