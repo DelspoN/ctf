@@ -15,6 +15,7 @@
 - [2017_DefCamp] 119th
 - [2017_Kaspersky] 61th
 - [2017_Can-CWIC] 17th
+- [2017_Hack_Dat_Kiwi] 14th
 
 ## Pwnable
 
@@ -47,6 +48,8 @@
 - [x] \[2017_Can-CWIC] \[PWN] meta1
 - [x] \[2017_Can-CWIC] \[PWN] meta2
 - [x] \[2017_Can-CWIC] \[PWN] Red is Dead
+- [x] \[2017_Hack_Dat_Kiwi] \[PWN] Chessmaster
+- [x] \[2017_Hack_Dat_Kiwi] \[PWN] Set Theory
 
 ## Web
 - [x] \[2017_0CTF] \[Web] simplesqlin
@@ -73,16 +76,18 @@
 - [x] \[2017_DefCamp] \[Web] Are you brave enough?
 - [x] [2017_DefCamp] \[Web] A talkative server
 - [x] [2017_DefCamp] \[Web] DCTF LLC
+- [x] \[2017_Hack_Dat_Kiwi] \[Web] PHP Sandbox
 
 ## Reversing
 - [x] \[2015_Defcamp] \[REV] r100
 - [x] \[2017_BugsBunny] \[REV] rev50
 - [x] \[2017_BugsBunny] \[REV] rev75
 - [x] \[2017_SHA] \[REV] suspectfile
-- [x] \[2017_Inc0gnito] \[Reversing] leon
-- [x] \[2017_TWCTF] \[Reversing] rev_rev_rev
-- [x] \[2017_DefCamp] \[Reversing] Working Junks
-- [x] \[2017_Kaspersky] \[Reversing] Backdoor Pi
+- [x] \[2017_Inc0gnito] \[REV] leon
+- [x] \[2017_TWCTF] \[REV] rev_rev_rev
+- [x] \[2017_DefCamp] \[REV] Working Junks
+- [x] \[2017_Kaspersky] \[REV] Backdoor Pi
+- [x] \[2017_Hack_Dat_Kiwi] \[REV] PPPoly
 
 ## Crypto
 - [x] \[2017_BugsBunny] \[Crypto] crypto-15
