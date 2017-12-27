@@ -331,5 +331,101 @@ int __cdecl sub_468E80(signed int a1)
 
 플래그로 추정되는 문자를 하나씩 이어 붙이면 `{Y0ur_p4t1enc3_1s_gr3at!}`라는 플래그가 완성된다.
 
+# [2017_ROOTCTF] \[REV] Egg
 
+## Solution
+
+```c
+int ch(void)
+{
+  int result; // eax
+  __int64 v1; // [rsp+30h] [rbp-20h]
+  int i; // [rsp+3Ch] [rbp-14h]
+
+  LOWORD(v1) = 30839;
+  BYTE2(v1) = 121;
+  BYTE3(v1) = 122;
+  for ( i = 0; i < strlen(buf); ++i )
+    buf[i] ^= sha(i + 2);
+  if ( !strcmp(buf, f) )
+    result = printf(
+               "\n The egg hatches.",
+               f,
+               5208208757389214273LL,
+               5786930140093827657LL,
+               6365651522798441041LL,
+               7378413942531512921LL,
+               7957135325236127847LL,
+               8535856707940741231LL,
+               v1);
+  else
+    result = init2();
+  return result;
+}
+```
+
+sha 함수의 실행값만 알면 xor 연산을 통해 어떤 input을 넣어줘야 하는지 알 수 있습니다. f가 key 역할을 하는 것으로 판단되었습니다. f의 길이가 22글자 밖에 되지 않았기 때문에 sha 함수의 실행값을 하나씩 확인했습니다. (sha 함수 분석 귀찮 =_=..)
+
+```
+0xc
+0x6
+0xa
+0xf
+0xa
+0xc
+0xd
+0x2
+0x7
+0x8
+0x7
+0x3
+0x7
+0x1
+0x9
+0x8
+0x5
+0xf
+0x1
+0xb
+0x5
+0x3
+```
+
+실행값들이고 이를 f의 값과 xor 연산하여 input 값을 찾으면 됩니다.
+
+```python
+f = open("egg_sha", "r")
+sha = f.read()
+f.close
+
+sha = sha.replace("0x", "0")
+sha = sha.replace("\n", "")
+sha = sha.decode("hex")
+
+key = "Mh;y;mR1@OijQhHW6Ah=hB"
+
+flag = ""
+for i in range(len(key)):
+	flag += chr(ord(sha[i]) ^ ord(key[i]))
+
+print flag
+```
+
+## 실행 결과
+
+```
+       @@@@@
+      @@@@@@@
+     @@@@@@@@@
+    @@@@@@@@@@@
+    @@@@@@@@@@@
+     @@@@@@@@@
+      @@@@@@@
+
+Annivia has died and becomes an egg. 
+ And get rid of the riddle and wake it from the egg quickly before it gets to your opponent.
+An1v1a_3GGniViA_3Ni6mA
+
+ The egg hatches.
+```
 
