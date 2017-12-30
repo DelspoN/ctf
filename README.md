@@ -50,6 +50,8 @@
 - [x] \[2017_Can-CWIC] \[PWN] Red is Dead
 - [x] \[2017_Hack_Dat_Kiwi] \[PWN] Chessmaster
 - [x] \[2017_Hack_Dat_Kiwi] \[PWN] Set Theory
+- [x] \[2017_ROOTCTF] \[PWN] pointer
+- [x] [2017_34C3CTF] \[PWN] readme_revenge
 
 ## Web
 - [x] \[2017_0CTF] \[Web] simplesqlin
@@ -77,6 +79,7 @@
 - [x] [2017_DefCamp] \[Web] A talkative server
 - [x] [2017_DefCamp] \[Web] DCTF LLC
 - [x] \[2017_Hack_Dat_Kiwi] \[Web] PHP Sandbox
+- [x] \[2017_ROOTCTF] \[WEB] Login
 
 ## Reversing
 - [x] \[2015_Defcamp] \[REV] r100
@@ -88,6 +91,8 @@
 - [x] \[2017_DefCamp] \[REV] Working Junks
 - [x] \[2017_Kaspersky] \[REV] Backdoor Pi
 - [x] \[2017_Hack_Dat_Kiwi] \[REV] PPPoly
+- [x] \[2017_ROOTCTF] \[REV] Stage
+- [x] \[2017_ROOTCTF] \[REV] Egg
 
 ## Crypto
 - [x] \[2017_BugsBunny] \[Crypto] crypto-15
@@ -103,7 +108,7 @@
 - [x] \[2017_BugsBunny] \[Forensic] For50
 - [x] \[2017_BugsBunny] \[Forensic] For80
 
-## Programming
+## PPC
 
 - [x] \[2017_Can-CWIC] \[Prog] Tri it 0
 
