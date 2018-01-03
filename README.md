@@ -52,6 +52,8 @@
 - [x] \[2017_Hack_Dat_Kiwi] \[PWN] Set Theory
 - [x] \[2017_ROOTCTF] \[PWN] pointer
 - [x] [2017_34C3CTF] \[PWN] readme_revenge
+- [x] [2017_34C3CTF] \[PWN] Digital Billboard
+- [x] [2017_34C3CTF] \[PWN] SimpleGC
 
 ## Web
 - [x] \[2017_0CTF] \[Web] simplesqlin
