@@ -95,6 +95,7 @@
 - [x] \[2017_Hack_Dat_Kiwi] \[REV] PPPoly
 - [x] \[2017_ROOTCTF] \[REV] Stage
 - [x] \[2017_ROOTCTF] \[REV] Egg
+- [x] [2017_34C3CTF] \[REV] morph
 
 ## Crypto
 - [x] \[2017_BugsBunny] \[Crypto] crypto-15
