@@ -54,6 +54,8 @@
 - [x] [2017_34C3CTF] \[PWN] readme_revenge
 - [x] [2017_34C3CTF] \[PWN] Digital Billboard
 - [x] [2017_34C3CTF] \[PWN] SimpleGC
+- [x] [2017_34C3 Junior CTF] \[PWN] Gift Wrapping Factory
+- [x] [2017_34C3 Junior CTF] \[PWN] Gift Wrapping Factory 2.0
 
 ## Web
 - [x] \[2017_0CTF] \[Web] simplesqlin
