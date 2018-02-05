@@ -1,21 +1,23 @@
-## CTF Activities @DelspoN
+# CTF Activities @DelspoN
 
-- [2017_SHA] 374th
+- [2017_SHA] 374th place
+- [2017_Inc0gnito] 4th place
+- [2017_TWCTF] 204th place
+- [2017_ASIS] 268th place
+- [2017_TenDollar] 8th place
+- [2017_DefCamp] 119th place (TenDollar)
+- [2017_Kaspersky] 61th place (TenDollar)
+- [2017_Can-CWIC] 17th place (TenDollar)
+- [2017_Hack_Dat_Kiwi] 14th place (TenDollar)
+- [2018_Codegate_Prequal] 18th place (Total 170, Undefined)
 
+# CTF 2018
 
-- [2017_Inc0gnito] 4th
-- [2017_TWCTF] 204th
-- [2017_ASIS] 268th
+## Web
 
+- [x] \[2018_Codegate_Prequal] \[Web] rbSql
 
-- [2017_TenDollar] 8th
-
-## CTF Activities @TenDollar
-
-- [2017_DefCamp] 119th
-- [2017_Kaspersky] 61th
-- [2017_Can-CWIC] 17th
-- [2017_Hack_Dat_Kiwi] 14th
+# CTF 2017
 
 ## Pwnable
 
