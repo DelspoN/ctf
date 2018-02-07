@@ -16,6 +16,7 @@
 ## Web
 
 - [x] \[2018_Codegate_Prequal] \[Web] rbSql
+- [x] \[2018_Codegate_Prequal] \[Pwn] BaskinRobins31
 
 # CTF 2017
 
