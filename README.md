@@ -17,6 +17,7 @@
 
 - [x] \[2018_Codegate_Prequal] \[Web] rbSql
 - [x] \[2018_Codegate_Prequal] \[Pwn] BaskinRobins31
+- [x] \[2018_Codegate_Prequal] \[Pwn] Melong
 
 # CTF 2017
 
