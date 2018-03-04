@@ -10,6 +10,7 @@
 - [2017_Can-CWIC] 17th place (TenDollar)
 - [2017_Hack_Dat_Kiwi] 14th place (TenDollar)
 - [2018_Codegate_Prequal] 18th place (Total 170, Undefined)
+- [2018_PragyanCTF] 158th place (Total 1291)
 
 # CTF 2018
 
@@ -18,6 +19,14 @@
 - [x] \[2018_Codegate_Prequal] \[Web] rbSql
 - [x] \[2018_Codegate_Prequal] \[Pwn] BaskinRobins31
 - [x] \[2018_Codegate_Prequal] \[Pwn] Melong
+- [x] \[2018_TRUSTEALTH] \[Web] PHP Jail
+- [ ] \[2018_TRUSTEALTH] \[Web] what is your name?
+- [x] \[2018_TRUSTEALTH] \[Web] Do you know php trick?
+- [ ] \[2018_TRUSTEALTH] \[Web] Read Flag Revenge
+- [x] \[2018_TRUSTEALTH] \[Pwn] Pyjail
+- [x] \[2018_TRUSTEALTH] \[Pwn] Pyjail2
+- [x] \[2018_TRUSTEALTH] \[Pwn] Pyjail3
+- [x] \[2018_PragyanCTF] \[Web] Animal attack
 
 # CTF 2017
 
