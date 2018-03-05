@@ -14,19 +14,26 @@
 
 # CTF 2018
 
+## Pwn
+
+- [x] \[2018_Codegate_Prequal] \[Pwn] BaskinRobins31
+- [x] \[2018_Codegate_Prequal] \[Pwn] Melong
+- [x] \[2018_TRUSTEALTH] \[Pwn] Pyjail
+- [x] \[2018_TRUSTEALTH] \[Pwn] Pyjail2
+- [x] \[2018_TRUSTEALTH] \[Pwn] Pyjail3
+
 ## Web
 
 - [x] \[2018_Codegate_Prequal] \[Web] rbSql
-- [x] \[2018_Codegate_Prequal] \[Pwn] BaskinRobins31
-- [x] \[2018_Codegate_Prequal] \[Pwn] Melong
 - [x] \[2018_TRUSTEALTH] \[Web] PHP Jail
 - [ ] \[2018_TRUSTEALTH] \[Web] what is your name?
 - [x] \[2018_TRUSTEALTH] \[Web] Do you know php trick?
 - [ ] \[2018_TRUSTEALTH] \[Web] Read Flag Revenge
-- [x] \[2018_TRUSTEALTH] \[Pwn] Pyjail
-- [x] \[2018_TRUSTEALTH] \[Pwn] Pyjail2
-- [x] \[2018_TRUSTEALTH] \[Pwn] Pyjail3
 - [x] \[2018_PragyanCTF] \[Web] Animal attack
+
+## Crypto
+
+- [ ] \[2018_PragyanCTF] \[Crypto] Xmen OR the avengers
 
 # CTF 2017
 
