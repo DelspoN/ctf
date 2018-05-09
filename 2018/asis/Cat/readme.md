@@ -1,6 +1,4 @@
-# [2018 ASIS CTF] [Web] Cat
-[Cat.i64](resources/A8916926E9635FE4A86CAFF1CEC53CF6.i64)
-
+# \[2018 ASIS CTF] \[Web] Cat
 ## Keywords
 - Heap Use After Free
 
